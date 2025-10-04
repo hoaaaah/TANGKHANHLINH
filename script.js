@@ -136,10 +136,12 @@ if (customText) {
     popupMessages = customText.split(',').map(msg => msg.trim()).filter(msg => msg.length > 0);
 } else {
     popupMessages = [
-        "Trăng rằm sáng tỏ, tình anh dành cho em cũng sáng như thế. Chúc em Trung Thu an lành và hạnh phúc bên anh mãi mãi 💞.",
-        "Trung Thu có trăng, có đèn lồng, và có em – niềm vui lớn nhất trong đời anh 🌙✨.",
+        "🌕 “Chúc Khánh Linh Trung Thu vui vẻ, luôn tươi cười như trăng rằm.” 💞.",
+       🏮 “Trung Thu sum vầy, chúc Khánh Linh trọn vẹn niềm vui và yêu thương.”🌙✨.",
         "Anh chẳng cần bánh nướng, bánh dẻo, chỉ cần em bên cạnh là Trung Thu đã trọn vẹn rồi 🍂💕."
+        🌟 “Khánh Linh rạng ngời như ánh trăng, hạnh phúc ngập tràn mùa Trung ✨ “Trăng rằm sáng nhất bầu trời, còn Khánh Linh là niềm vui sáng nhất trong lòng mọi người.”
     ];
+    
 }
 
 // Initialize the 3D scene
